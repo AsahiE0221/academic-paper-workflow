@@ -39,7 +39,7 @@ Then use it by typing `/academic-paper-workflow` in Claude Code.
 ```
 /academic-paper-workflow
 
-> "我刚读完张三的《日本政教关系研究》，帮我总结一下他的方法论框架"
+> "この論文先読んだばかりなんですから、〇〇について、作者は何を論じてますか？"
 ```
 
 The skill will:
@@ -51,7 +51,7 @@ The skill will:
 ### Search Your Library
 
 ```
-> "我之前读过的论文里，谁讨论过靖国神社问题？"
+> "前に読んだ論文は、〇〇について、この論文に比べて、相違点はなんですか？"
 ```
 
 The skill will search your notes first (fast), then fall back to PDFs (for original text), and respond with cited sources.
