@@ -27,7 +27,7 @@ cp SKILL.md ~/.claude/skills/academic-paper-workflow/
 Or clone directly (after you publish to a git repo):
 
 ```bash
-git clone https://github.com/AsahiE0221/academic-paper-workflow ~/.claude/skills/academic-paper-workflow
+git clone https://github.com/AsahiE0221/academic-paper-workflow.git ~/.claude/skills/academic-paper-workflow
 ```
 
 Then use it by typing `/academic-paper-workflow` in Claude Code.
